@@ -1,6 +1,6 @@
 👋 Hi, I’m @syed-zainulabadin, an experienced Software Quality Assurance (SQA) Engineer with a passion for ensuring top-notch product quality.
 👀 I’m interested in exploring innovative testing methodologies and tools to enhance the efficiency and effectiveness of software testing processes.
-🌱 I'm currently deepening my expertise in automation testing by delving into advanced frameworks like Selenium and Appium. My goal is to refine my automation skills to optimize testing workflows and expedite release cycles.
+🌱 I'm currently deepening my expertise in automation testing by delving into advanced frameworks of Selenium and Appium. My goal is to refine my automation skills to optimize testing workflows and expedite release cycles.
 💞️ I’m looking to collaborate on projects that prioritize quality assurance and aim to deliver flawless user experiences.
 📫 Reach me via email at syedzain1322@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/syedzain09.
 😄 Pronouns: He/Him
